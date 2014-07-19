@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ﻿oi
 n�  jjjjjjjjjjj     nnnn asr
 nnnnnnbbbbbmnbasdf
 sda
 sadf
 asdf
+=======
+oi8
+n�  jjjjjjjjjjj     nnnn
+nnnnnnbbbbbmnbl
+>>>>>>> dc4fee9947d02409d537fc7c630c37049fa8973d
